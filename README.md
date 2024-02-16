@@ -1,0 +1,1 @@
+# CMake-vcpkg-project-template
