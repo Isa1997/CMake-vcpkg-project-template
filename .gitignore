@@ -1,0 +1,11 @@
+*/vs
+/out
+*.out
+
+*build*
+*dependencies*
+*CMakeFiles*
+CMakeCache.txt
+*cmake_*
+*Makefile*
+*dependencies*
