@@ -1,4 +1,5 @@
 ﻿project(tests)
+
 set(PROJECT_NAME tests.out)
 
 find_package(Catch2 3 REQUIRED)
